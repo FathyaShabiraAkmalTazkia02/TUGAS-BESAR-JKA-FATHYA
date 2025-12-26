@@ -1,6 +1,6 @@
 # TUGAS I&II-JKA – FATHYA
 
-Repository ini berisi berkas tugas MID mata kuliah **Advanced Network / Jaringan Komputer Lanjut**, khususnya praktikum analisis serangan ARP spoofing, session hijacking, dan IP spoofing (pod, SYN flood, UDP flood, dan land attack).
+Repository ini berisi berkas tugas besar mata kuliah **Advanced Network / Jaringan Komputer Lanjut**, khususnya praktikum analisis serangan ARP spoofing, session hijacking, dan IP spoofing (pod, SYN flood, UDP flood, dan land attack).
 
 ## Struktur Folder
 
