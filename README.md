@@ -8,7 +8,7 @@ Repository ini berisi berkas tugas MID mata kuliah **Advanced Network / Jaringan
   Berisi lembar analisa, screenshot, dan file pendukung praktikum.
 
 - `laporan/`  
-  Berisi laporan MID dalam format dokumen (PDF/DOCX) yang menjelaskan teori singkat, langkah praktikum, dan hasil analisis.
+  Berisi laporan MID dalam format dokumen (PDF) yang menjelaskan teori singkat, langkah praktikum, dan hasil analisis.
 
 ## Ringkasan Praktikum
 
